@@ -47,5 +47,10 @@ An interactive Q&A system using LLM integration.
 2. View the AI-generated response in real-time
 3. Track your query history on the right sidebar
 
+
+### Note
+
+* Backend needs to be running for the frontend to work
+  
 ### Video Demo
-[Screencast from 2025-05-28 09-39-51.webm](https://github.com/user-attachments/assets/4d9608ec-60a8-4e8c-bca3-60164d5d97a2)
+[Tutorial video](https://github.com/user-attachments/assets/4d9608ec-60a8-4e8c-bca3-60164d5d97a2)
