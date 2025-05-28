@@ -13,7 +13,7 @@ app = FastAPI(
 # ✅ Allow CORS from your frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "https://pawa-it-ai-chat.onrender.com"],  # or ["*"] for all
+    allow_origins=["*"],  # or ["*"] for all
     allow_credentials=True,
     allow_methods=["*"], 
     allow_headers=["*"],
